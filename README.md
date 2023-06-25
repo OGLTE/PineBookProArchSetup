@@ -1,4 +1,4 @@
-I finally grew tired of having to randomly follow at least three guides (and possibly have to re-work my install at least two more times before it's ready) to setup Arch my normal way, so instead I figured I'd create this somewhat useful guide.
+This fork is to tweak Setup for a MicroSD in a USB adapter.
 
 I'm not going into full detail of the steps performed, as they're listed on the guides I used.
 
